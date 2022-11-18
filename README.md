@@ -1,2 +1,2 @@
 # Git-Learning-
-Git Learning from Peimathon
+Git Learning from Primathon
